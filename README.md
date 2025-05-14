@@ -1,9 +1,9 @@
-<h1 align="center">Step Into Your Power ❄️ The KamiDev Evolution</h1>
+<h1 align="center">Step Into Your Power ❄️ The DevSharp Tech Evolution</h1>
 
 ###
 
 <p align="left">
-Hi, I'm Kamidev628! 🌱
+Hi, I'm Code artist! 🌱
 As a passionate Full-Stack Developer, I'm dedicated to learning, evolving, and building cutting-edge web applications. With a strong foundation in front-end and back-end technologies, I thrive in dynamic environments, solving complex problems and collaborating with teams to deliver high-quality solutions. I love exploring new tools and frameworks, optimizing code, and contributing to open-source projects. I'm always seeking opportunities to innovate, grow, and make a meaningful impact in the tech world. Let's build something extraordinary together!
 </p>
 
@@ -180,6 +180,8 @@ As a passionate Full-Stack Developer, I'm dedicated to learning, evolving, and b
 ###
 
 <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="70" alt="csharp logo"  />
+  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="70" alt="qt logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="70" alt="androidstudio logo"  />
